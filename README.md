@@ -23,7 +23,11 @@ Or install it yourself as:
 ## Usage
 
 bundle exec exe/eltiempo today 'Gavà' 
+
+
 bundle exec exe/eltiempo av_min 'Gavà'
+
+
 bundle exec exe/eltiempo av_max 'Gavà'
 
 ## Development
