@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "eltiempo"
+Eltiempo::CLI.start(ARGV)
